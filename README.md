@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ashdeo
-- 👀 I’m interested in Developement
-- 🌱 I’m currently learning React Js and Node Js 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
